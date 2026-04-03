@@ -722,8 +722,8 @@ A：在skills目录下，新建一个独立的技能文件夹，创建对应的S
 ---
 
 ## 社区与支持
-- GitHub仓库：【填写仓库地址】
-- 交流社群：【未成年】
+- GitHub仓库：【https://github.com/manbo-vv/OpenClaw-md-Template.git】
+- 交流社群：【未成年没手机】
 - 问题反馈：可直接在仓库提交Issue，或加入交流社群反馈。
 
 ---
